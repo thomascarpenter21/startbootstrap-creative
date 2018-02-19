@@ -37,6 +37,9 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
+/*h1 {
+  font-size: 150px;
+}*/
 
 .bg-primary {
   background-color: #F05F40 !important;
@@ -79,6 +82,7 @@ img::-moz-selection {
   color: #fff;
   background: transparent;
 }
+
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
