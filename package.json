@@ -23,7 +23,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "https://github.com/thomascarpenter21/startbootstrap-creative"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
